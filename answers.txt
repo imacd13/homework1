@@ -1,2 +1,0 @@
-What is a remote repository?
-A remote repository is a central repository that is used by people collaborating together on code. It has a history like its local counterpart.
